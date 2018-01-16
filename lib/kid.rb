@@ -9,6 +9,5 @@ attr_accessor :name
 
   def initialize(name)
     @name = name
-  endS
-end
+  end
 end
